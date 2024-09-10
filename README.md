@@ -1,2 +1,2 @@
 # OOP-concepts
-Object Oriented Progamming code samples using Java 
+Object Oriented Progamming code samples using Java.
