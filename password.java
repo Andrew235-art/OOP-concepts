@@ -23,6 +23,7 @@ public class password { // Class name should follow CamelCase convention
         if (attempts == 0) { // Handle failed attempts
             System.out.println("Sorry, you've run out of attempts.");
         }
+        scanner.close();
     }
 }
 
